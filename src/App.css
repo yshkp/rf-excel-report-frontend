@@ -1,0 +1,18 @@
+.App-form {
+  margin: 5rem;
+  padding: 6;
+  border: 5rem;
+  border: blue;
+}
+
+.formtype {
+  padding: 2rem;
+  align-self: center;
+  size: 6rem;
+  border: aqua;
+}
+
+.button {
+  align-self: center;
+}
+
